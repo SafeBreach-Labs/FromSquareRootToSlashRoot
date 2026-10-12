@@ -2,6 +2,8 @@
 # From square root to /root
 This repository contains several tools to research the environment of Python in Excel, as presented at the talk "From square root to /root: escalating privileges in Azure containers with Python in Excel" from DEF CON 34.
 
+Full technical details are available on the [SafeBreach blog](https://www.safebreach.com/blog/python-in-excel-vulnerability-root-escalation-cve-2026-45459/).
+
 ## run_container.py
 This tool utilizes the REST API of the servers to launch a container and execute a Python script on it
 ```
